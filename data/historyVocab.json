@@ -1,0 +1,22 @@
+[
+  {
+    "id": "1",
+    "word": "Resilient",
+    "pos": "adj.",
+    "phonetic": "/rɪˈzɪl.jənt/",
+    "definition": "能迅速恢復精力的；有彈性的",
+    "lastScore": 5,
+    "reviewCount": 3,
+    "lastTested": "2026-04-29"
+  },
+  {
+    "id": "2",
+    "word": "Pragmatic",
+    "pos": "adj.",
+    "phonetic": "/præɡˈmæt.ɪk/",
+    "definition": "務實的；重實效的",
+    "lastScore": 2,
+    "reviewCount": 1,
+    "lastTested": "2026-04-30"
+  }
+]
